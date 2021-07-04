@@ -1,5 +1,6 @@
-### Hi there 👋
+### Now what? 👋
 
+Pull up a chair and have a look around.  You will find repositories containing games, utilities, add-ons, 3D content, etc.
 <!--
 **escapecode/escapecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
